@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f248cf7a
 license: CC0-1.0
+name: Silly Finnish town names
 type: townname
+url: https://github.com/Cheesettd/Silly-Finnish-town-names
 version: 6
